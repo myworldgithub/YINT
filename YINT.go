@@ -102,7 +102,7 @@ Machine-based, rapid creation of many tokens would not necessarily need these ex
 1) Initial Finite Supply (upon creation one specifies how much is minted).
 2) In the absence of a token registry: Optional Decimal, Symbol & Name.
 3) Optional approveAndCall() functionality to notify a contract if an approval() has occurred.
-
+ 
 .*/
 
 contract HumanStandardToken is StandardToken {
